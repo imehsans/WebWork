@@ -1,11 +1,22 @@
-  =>  Template Name    : EStore – eCommerce HTML Template
+>> HCI Assignment 3 work 
+in web 
+Navagation 
 
-  =>  Template Link    : https://htmlcodex.com/ecommerce-html-template
+Provide a global navigation bar at the top of each page.
+ 2. Provide a local category or topical links navigation bar on the left side of a page. 
+ 3. Place minor illustrative, parenthetical, or footnote links at the end of the page. 
+ 4. For long pages, provide a navigation bar repeating important global or local links at the page bottom
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
 
-  =>  Author Website   : https://htmlcodex.com
+all the following questions adnf there answers you found from this site 
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+The conclusion should include answers of the following questions. 
+For Web based projects:
+
+1.	Explain navigational scheme used in your project? How effectively  navigational scheme has
+      been designed?
+
+ 2. Were there any menu navigation aids been provided in your project?
+
+ 3. Is your design supports requirements of novice as well as expert users? If yes, how?	
